@@ -23,12 +23,12 @@ public class ChestESPMod {
     
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event) {
-        // Pre-initialization code
+        // Pre-initialization
     }
     
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
-        // Initialization code
+        // Initialization
     }
     
     @Mod.EventHandler

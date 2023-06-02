@@ -29,6 +29,5 @@ public class GuiChestESP extends GuiScreen {
     public void drawScreen(int mouseX, int mouseY, float partialTicks) {
         super.drawScreen(mouseX, mouseY, partialTicks);
 
-        // Draw additional screen elements or information
     }
 }
