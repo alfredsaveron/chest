@@ -13,7 +13,7 @@ public class GuiChestESP extends GuiScreen {
         int centerX = width / 2;
         int centerY = height / 2;
 
-        toggleButton = new GuiButton(0, centerX - 50, centerY - 10, 100, 20, "Toggle Chest ESP");
+        toggleButton = new GuiButton(0, centerX - 50, centerY - 10, 100, 20, "Toggle ESP");
         buttonList.add(toggleButton);
     }
 
