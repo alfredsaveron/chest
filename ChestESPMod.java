@@ -13,8 +13,8 @@ import org.lwjgl.input.Keyboard;
 @Mod(modid = ChestESPMod.MODID, name = ChestESPMod.NAME, version = ChestESPMod.VERSION)
 public class ChestESPMod {
     public static final String MODID = "chestesp";
-    public static final String NAME = "Chest ESP Mod";
-    public static final String VERSION = "1.0.0";
+    public static final String NAME = "chestESP";
+    public static final String VERSION = "alf1.0.0";
     
     private boolean isChestESPToggled = false;
     
@@ -33,7 +33,6 @@ public class ChestESPMod {
     
     @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent event) {
-        // Post-initialization code
     }
     
     @Mod.EventHandler
