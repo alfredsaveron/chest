@@ -20,8 +20,6 @@ public class GuiChestESP extends GuiScreen {
     @Override
     protected void actionPerformed(GuiButton button) {
         if (button == toggleButton) {
-            // Handle toggle button click event
-            // Activate/deactivate the chest ESP feature
         }
     }
 
